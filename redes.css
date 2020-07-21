@@ -5,3 +5,21 @@
     margin-left: 90%;
     position: fixed;
 }
+.fa { 
+    text-align: center;
+    text-decoration: none;
+    margin: 35px 10px 0;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram{
+    color:black;
+}
+
+.fa-google{
+    color:black;
+    margin-left:65px;
+}

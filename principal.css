@@ -5,6 +5,8 @@
     position: fixed;
     height: 100%;
     line-height: 70px;
+    border: solid black;
+    border-width:0 1px;
 }
 
 .principal p{
@@ -63,7 +65,7 @@ fieldset{
 input{
     border:none;
     height: 30px;
-    width: 250px;
+    width: 220px;
     background-color: bisque;
 }
 
